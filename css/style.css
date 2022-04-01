@@ -56,6 +56,16 @@
 .card_slide{
   margin-bottom: 4%;
 }
+.link-color{
+  color: white;
+}
+.link-color:hover{
+  color: white;
+  text-decoration: none;
+}
+.nav_option{
+  text-align: center;
+}
 /*footer*/
 .footerBottom{
   background-color: #3A3845;
@@ -67,3 +77,30 @@
   font-family: 'Passion One', cursive;
   font-family: 'PT Sans Caption', sans-serif;
 */
+/*blog page*/
+/*Nav bar*/
+.bg-color {
+  background-color: #3A3845;
+}
+/*contain*/
+.blog_post{
+  margin-top: 2%;
+}
+.feature-image{
+  border-radius: 10px;
+}
+.blog_post_image{
+  margin-top: 8%;
+  width: 100%;
+  height: 90%;
+  border-radius: 10px;
+}
+.blog_border{
+  padding: 10px;
+}
+.blog_more{
+  color: black;
+}
+.blog_more:hover{
+  text-decoration: none;
+}
